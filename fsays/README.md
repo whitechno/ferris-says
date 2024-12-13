@@ -1,6 +1,15 @@
 fsays
 =====
 
+Install local binary
+```text
+cargo install --path ./fsays
+```
+It is installed in `$HOME/.cargo/bin/fsays`. Run it like this:
+```text
+fsays 'Hello fellow Rustaceans!'
+```
+
 Run from `fsays` directory
 ```text
 $ cd fsays
