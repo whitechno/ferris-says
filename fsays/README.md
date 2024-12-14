@@ -1,7 +1,7 @@
 fsays
 =====
 
-Install local binary
+Install from local binary
 ```text
 cargo install --path ./fsays
 ```

@@ -9,11 +9,11 @@ You only need a stable version of the Rust compiler.
 ## Build and test
 
 ```text
-      - run: cargo check
-      - run: cargo check --features clippy
-      - run: cargo test
-      - run: cargo test --features clippy
-      - run: cargo doc
+cargo check
+cargo check --features clippy
+cargo test
+cargo test --features clippy
+cargo doc
 ```
 
 ## How to use the library
